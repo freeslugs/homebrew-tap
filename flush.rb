@@ -1,8 +1,8 @@
 class Flush < Formula
   homepage "://github.com/freeslugs/flush"
-  url "https://github.com/freeslugs/flush/archive/0.0.3.tar.gz"
-  version "0.0.3"
-  sha256 "8424d4d7cd13ee5459f59a989b8e12931e3e396e18bd74a182fdd25d0852a287"
+  url "https://github.com/freeslugs/flush/archive/0.0.4.tar.gz"
+  version "0.0.4"
+  sha256 "dd79e64300553cefdc4edff7db105e9bac3468554605272a878b0bc6c0be5fa7"
 
   # shasum -a 256 v1.1.tar.gz
 
