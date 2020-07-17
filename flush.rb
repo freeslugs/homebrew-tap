@@ -7,6 +7,6 @@ class Flush < Formula
   # shasum -a 256 v1.1.tar.gz
 
   def install
-    bin.install 'flush.sh'
+    bin.install 'flush.sh' => 'flush'
   end
 end
