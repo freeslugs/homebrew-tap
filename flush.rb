@@ -1,6 +1,6 @@
 class Flush < Formula
   homepage "://github.com/freeslugs/flush"
-  url "https://github.com/freeslugs/flush/archive/master.tar.gz"
+  url "https://github.com/freeslugs/flush/archive/0.0.2.tar.gz"
   version "0.0.2"
   sha256 "486b79bedb4b8095a0c955490ef39b5770e14569892eda6513280e0d2287b4dc"
 
